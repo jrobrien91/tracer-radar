@@ -16,6 +16,9 @@ dependencies:
   - xarray
   - pandas
   - fiona
+  - imageio
+  - metpy
+  - geopandas
   - pip
   - pip:
     - -r doc-requirements.txt
